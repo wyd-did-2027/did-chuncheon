@@ -27,10 +27,10 @@ export const content = {
     footer: {
       logoAlt: "wyd did 춘천 로고",
       address:
-        "강원특별자치도 춘천시 공지로 300 WYD 춘천 교구대회 사무국",
-      email: "qna.wyd.doc.icn@gmail.com",
-      phone: "032-765-6997",
-      hours: "운영시간: 10:00 ~ 18:00",
+        "강원 춘천시 공지로 300, 천주교춘천교구 WYD 사무국",
+      email: "ccvita@cccatholic.or.kr",
+      phone: "033-240-6074",
+      hours: "운영시간: 월~금 08:30~17:30 (점심시간 12:30~13:30)",
       copyright: "Copyright ⓒ 춘천교구 All rights reserved",
     },
     slider: {
@@ -85,10 +85,10 @@ export const content = {
     footer: {
       logoAlt: "wyd did Chuncheon logo",
       address:
-        "300, Gongji-ro, Chuncheon-si, Gangwon-do, WYD Chuncheon Diocesan Committee",
-      email: "qna.wyd.doc.icn@gmail.com",
-      phone: "032-765-6997",
-      hours: "Hours: 10:00 ~ 18:00",
+        "300, Gongji-ro, Chuncheon-si, Gangwon-do, Catholic Diocese of Chuncheon WYD Office",
+      email: "ccvita@cccatholic.or.kr",
+      phone: "033-240-6074",
+      hours: "Hours: Mon-Fri 08:30~17:30 (Lunch 12:30~13:30)",
       copyright: "Copyright ⓒ Diocese of Chuncheon All rights reserved",
     },
     slider: {
