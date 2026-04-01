@@ -32,8 +32,7 @@ export const content = {
     },
     footer: {
       logoAlt: "wyd did 춘천 로고",
-      address:
-        "강원 춘천시 공지로 300, 천주교춘천교구 WYD 사무국",
+      address: "강원 춘천시 공지로 300, 천주교춘천교구 WYD 사무국",
       email: "ccvita@cccatholic.or.kr",
       phone: "033-240-6074",
       hours: "운영시간: 월~금 08:30~17:30 (점심시간 12:30~13:30)",
@@ -44,6 +43,10 @@ export const content = {
       play: "재생 버튼",
       prev: "이전 슬라이드 버튼",
       next: "다음 슬라이드 버튼",
+      alt1: "춘천 슬라이드 1",
+      alt2: "춘천 슬라이드 2",
+      alt3: "춘천 슬라이드 3",
+      alt4: "춘천 슬라이드 4",
     },
     sections: {
       calendar: "CALENDAR",
@@ -66,8 +69,7 @@ export const content = {
     },
     popup: {
       title: "2026 세계청년대회 안내",
-      description:
-        "춘천교구에서 준비하는 세계청년대회 소식을 확인해보세요.",
+      description: "춘천교구에서 준비하는 세계청년대회 소식을 확인해보세요.",
     },
   },
   en: {
@@ -102,6 +104,10 @@ export const content = {
       play: "Play",
       prev: "Previous slide",
       next: "Next slide",
+      alt1: "Chuncheon Slide 1",
+      alt2: "Chuncheon Slide 2",
+      alt3: "Chuncheon Slide 3",
+      alt4: "Chuncheon Slide 4",
     },
     sections: {
       calendar: "CALENDAR",

@@ -8,22 +8,22 @@ const PREFIX: Record<string, { pc: string; mobile: string }> = {
   en: { pc: "pe", mobile: "me" },
 };
 
-export default function SliderItem01({ locale = "kr" }: { locale?: Locale }) {
+export default function SliderItem03({ locale = "kr" }: { locale?: Locale }) {
   const t = content[locale].slider;
   const { pc } = PREFIX[locale] || PREFIX.kr;
 
   return (
     <div className="relative w-full h-full">
       <Image
-        src={`${R2_URL}/chuncheon/${pc}_2.png`}
-        alt={t.alt2}
+        src={`${R2_URL}/chuncheon/${pc}_4.png`}
+        alt={t.alt4}
         fill
         className="object-cover min-[1080px]:hidden block"
         priority
       />
       <Image
-        src={`${R2_URL}/chuncheon/${pc}_2.png`}
-        alt={t.alt2}
+        src={`${R2_URL}/chuncheon/${pc}_4.png`}
+        alt={t.alt4}
         fill
         className="object-fill hidden min-[1080px]:block"
         priority
