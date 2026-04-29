@@ -20,7 +20,7 @@ export const content = {
       ogLocale: "ko_KR",
     },
     header: {
-      logoAlt: "wyd did 춘천 로고",
+      logoAlt: "wyd did 춘천",
       nav: {
         home: "홈",
         calendar: "캘린더",
@@ -31,7 +31,7 @@ export const content = {
       },
     },
     footer: {
-      logoAlt: "wyd did 춘천 로고",
+      logoAlt: "wyd did 춘천",
       address: "강원 춘천시 공지로 300, 천주교춘천교구 WYD 사무국",
       email: "ccvita@cccatholic.or.kr",
       phone: "033-240-6074",
@@ -80,7 +80,7 @@ export const content = {
       ogLocale: "en_US",
     },
     header: {
-      logoAlt: "wyd did Chuncheon logo",
+      logoAlt: "wyd did Chuncheon",
       nav: {
         home: "Home",
         calendar: "Calendar",
@@ -91,7 +91,7 @@ export const content = {
       },
     },
     footer: {
-      logoAlt: "wyd did Chuncheon logo",
+      logoAlt: "wyd did Chuncheon",
       address:
         "300, Gongji-ro, Chuncheon-si, Gangwon-do, Catholic Diocese of Chuncheon WYD Office",
       email: "ccvita@cccatholic.or.kr",
