@@ -38,6 +38,12 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
+  verification: {
+    google: "xgwypVPCW008NVCXNfWWMs17VCZ-y1PucFyASR1-1ho",
+    other: {
+      "naver-site-verification": "ae3739831d7c2e5cc9bd110b4e14da9607f61b82",
+    },
+  },
 };
 
 export const viewport: Viewport = {
